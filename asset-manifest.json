@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/twl_praktikum3/static/css/main.405b7da1.css",
+    "main.js": "/twl_praktikum3/static/js/main.1596783e.js",
+    "static/js/787.db8a507b.chunk.js": "/twl_praktikum3/static/js/787.db8a507b.chunk.js",
+    "static/media/dog.png": "/twl_praktikum3/static/media/dog.58ddeb63abcdaa2422c8.png",
+    "index.html": "/twl_praktikum3/index.html",
+    "main.405b7da1.css.map": "/twl_praktikum3/static/css/main.405b7da1.css.map",
+    "main.1596783e.js.map": "/twl_praktikum3/static/js/main.1596783e.js.map",
+    "787.db8a507b.chunk.js.map": "/twl_praktikum3/static/js/787.db8a507b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.405b7da1.css",
+    "static/js/main.1596783e.js"
+  ]
+}
