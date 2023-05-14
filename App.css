@@ -1,0 +1,12 @@
+.card {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.container {
+  background-color: rgba(145, 145, 150, 0.619);
+}
+
+.text-center {
+  color: white;
+  font-weight: bold;
+}
